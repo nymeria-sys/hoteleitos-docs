@@ -18,7 +18,7 @@ Para facilitar a orquestração do ambiente, recomendamos a utilização do Dock
 
 ## Configure as variáveis de ambiente
 ```
-# dialeto do banco de dados pode ser mysql, postgres, mssql, sqlite, mariadb
+# dialeto do banco de dados pode ser mysql, postgres, mssql, sqlite, mariadb, native_postgres
 DB_DIALECT=postgres
 # host do banco de dados
 DB_HOST=localhost
@@ -45,6 +45,8 @@ CRON_TIME=*/30 * * * * *
 ```
 
 Atenção API_URL e API_TOKEN serão fornecidos pelo time de produto.
+
+Para versões do postgres anteriores ou iguais a 9.1, utilize DB_DIALECT=native_postgres.
 
 ### Selecionando versão do sistema
 

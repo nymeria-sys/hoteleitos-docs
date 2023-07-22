@@ -76,6 +76,13 @@ const config = {
             position: 'left',
             label: 'Tutoriais',
           },
+          {
+
+            sidebarId: 'tutorialSidebar',
+            position: 'right',
+            label: 'Política de Privacidade',
+            to: '/politica-privacidade',
+          },
           //  {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://nymeriasoft.com.br',

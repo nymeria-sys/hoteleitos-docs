@@ -70,6 +70,7 @@ const config = {
           src: 'img/icone.png',
         },
         items: [
+          {to: 'blog', label: 'Blog', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',

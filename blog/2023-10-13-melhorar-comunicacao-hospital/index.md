@@ -2,7 +2,7 @@
 slug: melhorar-comunicacao-interna-hospitais
 title: 'Como o HOTELEITOS Aprimora a Comunicação e Eficiência em Hospitais' 
 authors: [leonardo]
-tags: [gerenciamento de leitos, hotelaria, organizar hotelaria, indicadores, atraso na alta]
+tags: [HOTELEITOS, comunicação hospitalar, eficiência hospitalar, gestão hospitalar]
 ---
 ## Como melhorar a comunicação interna em hospitais
 

@@ -62,11 +62,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/icone.png',
       navbar: {
         title: 'HOTELEITOS',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'HOTELEITOS - App para gerenciamento de leitos',
           src: 'img/icone.png',
         },
         items: [

@@ -26,10 +26,7 @@ const config = {
 
   scripts: [
     // rd station
-    {
-      src: 'https://d335luupugsy2.cloudfront.net/js/loader-scripts/9313c8fa-9729-4f09-a957-8ac656cf95d3-loader.js',
-      async: false,
-    },
+    "https://d335luupugsy2.cloudfront.net/js/loader-scripts/9313c8fa-9729-4f09-a957-8ac656cf95d3-loader.js"
   ],
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want

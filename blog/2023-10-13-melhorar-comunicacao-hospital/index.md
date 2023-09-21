@@ -4,6 +4,9 @@ title: 'Como o HOTELEITOS Aprimora a Comunicação e Eficiência em Hospitais'
 authors: [leonardo]
 tags: [HOTELEITOS, comunicação hospitalar, eficiência hospitalar, gestão hospitalar]
 ---
+<head>
+  <script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/9313c8fa-9729-4f09-a957-8ac656cf95d3-loader.js" ></script>
+</head>
 ## Como melhorar a comunicação interna em hospitais
 
 Para melhorar a comunicação interna em hospitais, é fundamental implementar estratégias e práticas que promovam a eficiência, a transparência e a colaboração entre os profissionais de saúde. Aqui estão algumas medidas que podem ser adotadas:

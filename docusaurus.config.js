@@ -28,7 +28,7 @@ const config = {
     // rd station
     {
       src: 'https://d335luupugsy2.cloudfront.net/js/loader-scripts/9313c8fa-9729-4f09-a957-8ac656cf95d3-loader.js',
-      async: true,
+      async: false,
     },
   ],
   // Even if you don't use internalization, you can use this field to set useful

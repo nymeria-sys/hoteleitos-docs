@@ -16,19 +16,19 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
            <Link
-            className="button button--secondary button--lg margin-right--md"
+            className="button button--secondary button--md margin-right--md"
             to="/blog">
             Blog
           </Link>
 
           <Link
-            className="button button--secondary button--lg margin-right--md"
+            className="button button--secondary button--md margin-right--md"
             href="https://www.hoteleitos.com.br/">
             Acessar o Site
           </Link>
 
           <Link
-            className="button button--secondary button--lg"
+            className="button button--secondary button--md"
             to="/docs/intro">
             Tutoriais
           </Link>

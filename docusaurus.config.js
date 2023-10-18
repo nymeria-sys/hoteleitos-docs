@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'HOTELEITOS',
-  tagline: 'Docs for HOTELEITOS',
+  tagline: 'Blog e área de Documentação do HOTELEITOS',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -78,6 +78,7 @@ const config = {
           src: 'img/icone.png',
         },
         items: [
+          { href: 'https://www.hoteleitos.com.br', label: 'Site', position: 'left' },
           {to: 'blog', label: 'Blog', position: 'left'},
           {
             type: 'docSidebar',
@@ -95,7 +96,7 @@ const config = {
           //  {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://nymeriasoft.com.br',
-            label: 'Conheça Nymeria',
+            label: 'Conheça a Nymeria',
             position: 'right',
           },
         ],

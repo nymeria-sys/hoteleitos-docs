@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Equipe Integrada',
-    Svg: require('@site/static/img/capa/capa_03.png').default,
+    Svg: require('@site/static/img/capa/1.png').default,
     description: (
       <>
         Desencadeie o processo de liberação através do seu celular, realizando a higienização e manutenção de forma fácil e rápida.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Indicadores',
-    Svg: require('@site/static/img/capa/capa_02.png').default,
+    Svg: require('@site/static/img/capa/2.png').default,
     description: (
       <>
         Otimize sua experiência ao gerar indicadores precisos de uso, manutenção e higienização, tudo através de um único dispositivo: o seu celular.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'App',
-    Svg: require('@site/static/img/capa/capa_01.png').default,
+    Svg: require('@site/static/img/capa/3.png').default,
     description: (
       <>
        Experimente a excelência da gestão da sua hotelaria hospitalar com total tecnologia e segurança, através do nosso aplicativo exclusivo.
